@@ -1,8 +1,6 @@
 <h1 align="center">Hey👋, good to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><br />I'm Chittaranjan</h1>
 <h3 align="center">Full-stack Web & DevOps developer </h3>
 
-
-
 # 💫 About Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chittaranjan18) 
