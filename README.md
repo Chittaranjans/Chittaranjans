@@ -17,7 +17,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chittaranjan18) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chittaedu18) 
 
-<!--# 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chittaranjans&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chittaranjans&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
