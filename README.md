@@ -18,11 +18,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chittaranjan18) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chittaedu18) 
 
 # 📊 GitHub Stats:
+---
+
+[![Chittaranjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chittaranjans&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)](https://github.com/Chittaranjans/github-readme-activity-graph)
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chittaranjans&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chittaranjans&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
-
+---
 
   <!--## 💰 You can help me by Sponcering
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gyanaranjan) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gyanar25) 
