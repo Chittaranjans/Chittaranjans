@@ -2,8 +2,7 @@
 <h3 align="center">Full-stack Web & DevOps developer </h3>
 
 # 💫 About Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chittaranjan18) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chittaranjan18) <p align =""> <img src="https://komarev.com/ghpvc/?username=chittaranjans&label=Profile%20views&color=0e75b6&style=flat" alt="chittaranjans" /> </p>
 - 💬 Ask me about **Javascript , React, TypeScript, Next JS,  **
 - 📫 How to reach me **chittaedu18@gmail.com **
 
