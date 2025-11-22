@@ -40,7 +40,8 @@ I thrive in roles where I can craft robust systems, optimize performance, and so
 - 💬 Ask me about JavaScript, Python, AI/ML, React, TypeScript, Next.js
 - 🚀 Good at building systems from concept to implementation — architecture, data pipelines, APIs, and UI/UX.
 - 🌱 Passionate about automation, LLMs, multi-agent AI, and scalable cloud solutions.
-- 📫 Reach me at: chittaedu18@gmail.com
+- 💻 Personal Portfolio page **https://chittaranjans.vercel.app**
+- 📫 Reach me at: **chittaedu18@gmail.com**
 
 
 ---
